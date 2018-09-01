@@ -1,0 +1,31 @@
+p{display:inline-block; float:left;}
+#header {width:900px; margin:0 auto; text-align:center;}
+.link{display:inline-block; height:20px; width:80px;}
+.delete{
+	margin-left:20px; 
+	background-color:white;
+ 	float:right; 
+ 	text-decoration:none; 
+ 	border: solid 3px black;
+}
+.logout{
+	margin-left:20px; 
+	background-color:white; 
+	float:right;
+	text-decoration:none;
+	border: solid 3px black;
+}
+.inquiry{
+	width: 100px;
+	margin-left:30px; 
+	background-color:white; 
+	float:right;
+	text-decoration:none;
+	border: solid 3px black;
+}
+.main{
+	margin-right:100px; 
+	float:left;
+	text-align: left;
+	padding: 40px;
+}
